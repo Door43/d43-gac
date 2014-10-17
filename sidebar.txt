@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gac:home|Door43 (gac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gac|d43-gac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gac/archive/master.zip|d43-gac.zip]]
+
+**Recent Changes**
+{{changes>ns = gac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gac|Ethnologue data]]
+
